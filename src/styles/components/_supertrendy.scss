@@ -1,0 +1,90 @@
+.trendy-card{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 32px;
+
+    // @include smMaxBreakPoint{
+    //   grid-template-columns: repeat(2,1fr);
+    //   gap: 15px;
+    // }
+    
+    .trendy-list{
+       width: 336px;
+       height:446px;
+       background-color:$primary-color ;
+       .trendy-body{
+        padding-left: 20px;
+          .title{
+            font-family:$be-vietnam ;
+            font-weight: 600;
+            font-size: 24px;
+            color:rgba(58, 58, 58, 1);
+            ;
+          }
+          .desc{
+            font-family:$be-vietnam;
+            font-weight: 500;
+            font-size: 16px;
+            color:rgba(103, 107, 113, 1) ;
+          }
+
+          .price-list{
+            display: flex;
+            gap:15px ;
+
+            .discountedprice{
+                font-family:$be-vietnam;
+                font-weight: 600;
+                font-size: 18px;
+                color: rgba(58, 58, 58, 1);
+
+ 
+             }
+            .pricebefore{
+              font-family:$be-vietnam ;
+              font-weight: 200;
+              font-size: 16px;
+              text-decoration: line-through;
+            }
+          }
+       }
+    }
+
+}
+.off{
+    position: absolute;
+    background-color:rgb(241, 90, 42) ;
+    width: 86px;
+    height: 31px;
+    color: white;
+    text-align: center;
+    top: 40px;
+    
+    
+}
+.super-section{
+    margin-bottom: 80px;
+}
+
+.viewbtn{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  
+}
+.viewmore{
+    
+  width: 166px;
+  height: 39px;
+  border-radius: 8px;
+  background-color:rgba(53, 91, 251, 1);
+  border: none;
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+  
+
+}
+

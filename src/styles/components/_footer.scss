@@ -1,0 +1,13 @@
+.footer-section{
+    background-color: $primary-color;
+    margin-top: 100px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+}
+.footer-icons{
+    display: flex;
+    gap:12px;
+}

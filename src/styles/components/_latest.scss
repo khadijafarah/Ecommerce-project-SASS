@@ -1,0 +1,312 @@
+.latest-section{
+    background-color: $primary-color;
+    margin-bottom: 80px;
+  
+}
+.view-morebtn{
+    width:128px;
+    height:40px;
+    color: white;
+    background-color:$btn-color ;
+    border: none;
+    border-radius: 8px;
+   
+}
+    
+.latest-heading{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+   
+}
+
+.top-content{
+    display: flex;
+    gap: 32px;
+}
+.bottom-content{
+    display: flex;
+    gap: 32px;
+    margin-top: 32px;
+    padding-bottom: 80px;
+}
+
+.hawaiin-container{
+background-image:url("../../assets/Images/hawaiin.png");
+width: 459px;
+height: 390px;
+
+}
+.hawaiin-heading{
+    font-family:$be-vietnam;
+    font-weight: 700;
+    font-size: 28px;
+    color:rgba(255, 255, 255, 1);
+    ;
+    margin-left: 20px;
+}
+.latest-text{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size:14px ;
+    color:rgba(255, 255, 255, 1);
+    ;
+    margin-left: 20px;
+    
+}
+.latest-sale{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size: 18px;
+    color:rgba(255, 255, 255, 1);
+    ;
+    margin-left: 20px;
+    
+}
+.latest-key{
+     font-weight: 500;
+     font-size: 30px;
+     color:rgba(255, 255, 255, 1);
+    ;
+    margin-left: 60px;
+}
+.latest-btn{
+    width: 111px;
+    height: 34px;
+    border-radius:4px;
+    border:2px solid rgba(255, 255, 255, 1);
+    background-color: transparent;
+    margin-left: 20px;
+    color:rgba(255, 255, 255, 1);
+   
+    
+}
+.latest-heart{
+   margin-left:410px;
+   margin-top: 10px;
+}
+.blackhoodie-container{
+    background-image: url("../../assets/Images/blackhoodie.png");
+    width: 458px;
+    height: 390px;
+    border-radius: 8px;
+}
+.hoodie-heading{
+    font-family:$be-vietnam;
+    font-weight: 700;
+    font-size: 28px;
+    color:rgba(255, 255, 255, 1);
+    ;
+    margin-right: 20px;
+    text-align: right;
+}
+.hoodie-text{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size:14px ;
+    color:rgba(255, 255, 255, 1);
+    ;
+    margin-right: 20px;
+    text-align: right;
+    
+}
+.hoodie-sale{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size: 18px;
+    color:rgba(255, 255, 255, 1);
+    ;
+    margin-right: 20px;
+    text-align: right;
+    
+}
+.hoodie-key{
+    font-weight: 500;
+    font-size: 30px;
+    color:rgba(255, 255, 255, 1);
+   ;
+   margin-right: 60px;
+  text-align: right;
+   
+}
+.hoodie-btn{
+    width: 111px;
+    height: 34px;
+    border-radius:4px;
+    border:2px solid rgba(255, 255, 255, 1);
+    background-color: transparent;
+    margin-left: 320px;
+    color:rgba(255, 255, 255, 1);
+   
+    
+}
+
+.joggers-container{
+    background-image: url("../../assets/Images/joggers.png");
+    width: 458px;
+    height: 390px;
+    border-radius: 8px;
+}
+.joggers-heading{
+    font-family:$be-vietnam;
+    font-weight: 700;
+    font-size: 28px;
+    color:rgba(60, 66, 66, 1);
+    margin-right: 20px;
+    text-align: right;
+}
+.joggers-text{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size:14px ;
+    color:rgba(60, 66, 66, 1);
+    margin-right: 20px;
+    text-align: right;
+    
+}
+.joggers-sale{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size: 18px;
+    color:rgba(60, 66, 66, 1);
+    margin-right: 20px;
+    text-align: right;
+    
+}
+.joggers-key{
+    font-weight: 500;
+    font-size: 30px;
+    color:rgba(255, 255, 255, 1);
+    color:rgba(60, 66, 66, 1);
+    margin-right: 60px;
+    text-align: right;
+   
+}
+.joggers-btn{
+    width: 111px;
+    height: 34px;
+    border-radius:4px;
+    border:2px solid rgba(60, 66, 66, 1);;
+    background-color: transparent;
+    margin-left: 320px;
+    color:rgba(60, 66, 66, 1);
+   
+    
+}
+
+.urbanshirt-container{
+    background-image: url("../../assets/Images/blueshirt.png");
+    width: 703px;
+    height: 393px;
+    border-radius: 12px;
+}
+.urban-heart{
+    margin-left: 630px;
+    margin-top: 20px;
+}
+.urban-heading{
+    font-family:$be-vietnam;
+    font-weight: 700;
+    font-size: 28px;
+    color:rgba(60, 66, 66, 1);
+    margin-right: 20px;
+    text-align: right;
+}
+
+.urban-text{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size:14px ;
+    color:rgba(60, 66, 66, 1);
+    margin-right: 20px;
+    text-align: right;
+    
+}
+.urban-sale{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size: 18px;
+    color:rgba(60, 66, 66, 1);
+    margin-right: 20px;
+    text-align: right;
+    
+}
+.urban-key{
+    font-weight: 500;
+    font-size: 30px;
+    color:rgba(255, 255, 255, 1);
+    color:rgba(60, 66, 66, 1);
+    margin-right: 60px;
+    text-align: right;
+   
+}
+.urban-btn{
+    width: 111px;
+    height: 34px;
+    border-radius:4px;
+    border:2px solid rgba(60, 66, 66, 1);;
+    background-color: transparent;
+    margin-left: 550px;
+    color:rgba(60, 66, 66, 1);
+   
+}
+.phone-container{
+    align-items: center;
+    width: 704px;
+    height: 393px;
+    border-radius: 12px;
+    background-color:rgb(181, 229, 232) ;
+}
+.phone-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.purplephone{
+    width: 233px;
+   height: 308px;
+   margin-top: 30px;
+}
+.phone-heart{
+    margin-left: 200px;
+}
+
+.phone-heading{
+    font-family:$be-vietnam;
+    font-weight: 700;
+    font-size: 28px;
+    color:rgba(60, 66, 66, 1);
+   
+}
+.phone-text{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size:14px ;
+    color:rgba(60, 66, 66, 1);
+    
+}
+.phone-sale{
+    font-family:$be-vietnam;
+    font-weight:600;
+    font-size: 18px;
+    color:rgba(60, 66, 66, 1);
+    
+}
+.phone-key{
+    font-weight: 500;
+    font-size: 30px;
+    color:rgba(255, 255, 255, 1);
+    color:rgba(60, 66, 66, 1);
+    margin-left: 50px;
+   
+}
+.phone-btn{
+    width: 111px;
+    height: 34px;
+    border-radius:4px;
+    border:2px solid rgba(60, 66, 66, 1);;
+    background-color: transparent;
+    color:rgba(60, 66, 66, 1);
+   
+}
+

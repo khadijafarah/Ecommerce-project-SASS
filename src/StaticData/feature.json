@@ -1,0 +1,114 @@
+{
+    "products":[
+        {
+            "id":1,
+            "image":"/featured/blackshirt.png",
+            "title":"T-shirt with Tape Details",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":2,
+            "image":"/featured/redac.png",
+            "title":"latest Mini-split systems",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":3,
+            "image":"/featured/pant.png",
+            "title":"latest denim pant",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":4,
+            "image":"/featured/remote.png",
+            "title":"12FT PVC Decorative Line",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":5,
+            "image":"/featured/whiteac.png",
+            "title":"Single Zone Mini-split Systems",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":6,
+            "image":"/featured/blackshirt.png",
+            "title":"T-shirt with Tape Details",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":7,
+            "image":"/featured/redac.png",
+            "title":"latest Mini-split systems",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":8,
+            "image":"/featured/pant.png",
+            "title":"latest denim pant",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":9,
+            "image":"/featured/remote.png",
+            "title":"12FT PVC Decorative Line",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        },
+        {
+            "id":10,
+            "image":"/featured/whiteac.png",
+            "title":"Single Zone Mini-split Systems",
+            "discountedprice":"$225.00",
+            "price":"$300",
+            "icon":"/featured/staricon.png",
+            "heart":"/featured/heart.png",
+            "discount": "25% off"
+            
+        }
+    ]
+}

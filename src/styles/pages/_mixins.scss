@@ -1,0 +1,19 @@
+@import "./variables";
+
+@mixin smMinBreakPoint{
+    @media(min-width:#{$screen-sm} ){
+      @content;
+    }
+}
+
+@mixin smMaxBreakPoint{
+    @media(min-width:#{$screen-md} ){
+      @content;
+    }
+}
+
+@mixin mdMinBreakPoint{
+    @media(min-width:#{$screen-md} ){
+      @content;
+    }
+}

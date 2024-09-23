@@ -1,0 +1,88 @@
+.featured-products{
+   
+    gap: 24px;
+    margin-bottom: 80px;
+
+}
+h2{
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    gap: 24px;
+    
+}
+.feature-container{
+    background-color: $primary-color;
+    width:269px ;
+    height: 287px;
+    border-radius: 20px;
+}
+.card-text{
+    display: flex;
+    justify-content: space-between;
+}
+.price-content{
+    display: flex;
+    gap: 5px;
+ 
+}
+
+.sale-price{
+    font-family:$be-vietnam;
+    font-weight:800;
+    font-size: 20px;
+    color:#000000;
+    ;
+    margin-left: 16px;
+    padding-bottom:30px;
+}
+.original-price{
+    font-family:$be-vietnam;
+    font-weight: 500;
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.6);
+    ;
+    margin-top: 25px;
+    text-decoration: line-through;
+}
+.heart-icon{
+    margin-bottom: 125px;
+    margin-left: 10px;
+}
+.blackshirt{
+    margin-top: 24px;
+    margin-left: 20px;
+}
+.feature-title{
+    font-family:$be-vietnam;
+    font-weight: 500;
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.7);
+    ;
+    margin-left: 16px;
+   
+}
+.star-icon{
+    margin-top: 20px;
+    margin-right: 16px;
+}
+
+.redac-title{
+    font-family:$be-vietnam;
+    font-weight: 500;
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.7);
+    ;
+    margin-left: 16px;
+    margin-top: 50px;
+    
+}
+.redac-heart{
+    margin-left: 10px;
+    margin-bottom: 80px;
+}
+.whiteac-heart{
+    margin-left: 10px;
+    margin-bottom:110px;
+}

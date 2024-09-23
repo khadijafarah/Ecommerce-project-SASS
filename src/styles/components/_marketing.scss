@@ -1,0 +1,45 @@
+.marketing{
+    margin-top: 70px;
+    display: flex;
+    gap: 51px;
+    margin-bottom: 74px;
+}
+.free-shipping{
+    width: 446.67px;
+    height: 156px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    background-color:rgb(255, 245, 217) ;
+}
+.money-guarantee{
+    width: 446.67px;
+    height: 156px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    background-color:rgb(253, 230, 228) ;
+}
+.secure-shopping{
+    width: 446.67px;
+    height: 156px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    background-color:rgb(245, 235, 253) ;
+}
+.marketing-title{
+    font-family:$be-vietnam ;
+    font-weight: 500;
+    font-size: 18px;
+    color:rgba(0, 0, 0, 0.6);
+    ;
+}
+.marketing-text{
+    font-family:$be-vietnam ;
+    font-weight: 700;
+    font-size: 25px;
+    color:rgba(0, 0, 0, 1);
+    ;
+}
+

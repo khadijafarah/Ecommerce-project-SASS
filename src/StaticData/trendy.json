@@ -1,0 +1,89 @@
+
+    {
+        "product":[
+            {
+                "id":1,
+                "image":"/respira.png",
+                "title":"Respira",
+                "description":"Outdoor bar table and stool",
+                "discountedprice":"$2,500.00",
+                "pricebefore":"$3,500.00"
+                
+                
+            },
+            {
+                "id":2,
+                "image":"/blueheadphone.png",
+                "title":"Headphone",
+                "description":"Mellon's Brand",
+                "discountedprice":"$2,500.00",
+                "pricebefore":"$3,500.00"
+                
+                
+            },
+            {
+                "id":3,
+                "image":"/laptop.png",
+                "title":"Laptop",
+                "description":"Hp Brand",
+                "discountedprice":"$2,500.00",
+                "pricebefore":"$3,500.00"
+                
+                
+            },
+            {
+                "id":4,
+                "image":"/whitechair.png",
+                "title":"Leviosa",
+                "description":"Stylish cafe chair",
+                "discountedprice":"$2,500.00",
+                "pricebefore":"$3,500.00"
+                
+                
+            },
+            {
+                "id":5,
+                "image":"/grayhoodie.png",
+                "title":"Barboreal Gray Sweats",
+                "description":"Priya’s  Brand",
+                "discountedprice":"$2,50.00",
+                "pricebefore":"$3,50.00"
+                
+                
+            },
+            {
+                "id":6,
+                "image":"/sofa.png",
+                "title":"Pingky",
+                "description":"Sectional sofa",
+                "discountedprice":"$2,500.00",
+                "pricebefore":"$3,500.00"
+                
+                
+            },
+            {
+                "id":7,
+                "image":"/handgloves.png",
+                "title":"Handgloves",
+                "description":"Sport hand gloves",
+                "discountedprice":"$2,50.00",
+                "pricebefore":"$3,50.00"
+                
+                
+            },
+            {
+                "id":8,
+                "image":"/phone.png",
+                "title":"Phone",
+                "description":"One plus 8 pro",
+                "discountedprice":"$1,500.00",
+                "pricebefore":"$2,500.00"
+                
+                
+            }
+
+
+
+
+        ]
+    }

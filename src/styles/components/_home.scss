@@ -1,0 +1,30 @@
+
+.searchbar{
+    background-color:rgb(22, 22, 22); 
+    padding: 20px;
+}
+.input-icon{
+    gap: 55px;
+}
+
+.nav-btn{
+width:  147px;
+height: 42px;
+border-radius: 8px;
+background-color:$btn-color ;
+color: white;
+cursor: pointer;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    list-style: none;
+    gap: 40px;
+}

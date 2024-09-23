@@ -1,0 +1,30 @@
+.searchbar-section{
+    display: flex;
+    justify-content: space-between;
+}
+.input-section{
+    display: flex;
+    gap:55px ;
+}
+.input-paceholder{
+    position: relative;
+    width: 354px;
+    height: 42px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: rgb(45, 45, 45);
+    padding-left: 50px;
+}
+.search-icon{
+   position: absolute;
+   right: 690px;
+   margin-top: 15px;
+ 
+//    left: 50%;
+//    top: 50%;
+//    z-index: 50;
+}
+.icons{
+    display: flex;
+    gap: 15px;
+}
